@@ -1,7 +1,16 @@
 # ***Editor Command Meaning:***
 
 Using C++
+On Linux, run the command:
 
+    ed <input.txt
+
+The output obtained should be the same as the out.txt file
+ You must write an editor program that if we run it:
+
+    a.out <input.txt
+
+We will get the same output as the out.txt file
 ***
 
 ## n
